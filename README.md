@@ -1,5 +1,8 @@
 Hi! 
 I'm still learning beginner programmer. I'm using Javascript in learning and still learning additional tools. 
+
+
+
  📫 How to reach me: e-mail: ddziasek45@gmail.com
 
 <!---
