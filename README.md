@@ -1,5 +1,5 @@
 Hi! 
-I'm still learning beginner programmer. I'm using Javascript in learning and still learning additional tools. 
+I'm still learning beginner programmer. 
 
 
 
