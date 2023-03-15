@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominika</h1>
 <h3 align="center">I'm still learning, junior front end</h3>
 
-- 🌱 I’m currently learning **React, TailwindCSS**
+- 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/domdzia](https://github.com/domdzia)
 
