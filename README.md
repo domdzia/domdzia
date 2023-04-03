@@ -15,7 +15,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,git&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+
 
 
 
